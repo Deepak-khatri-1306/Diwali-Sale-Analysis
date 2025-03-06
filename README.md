@@ -22,6 +22,7 @@ The dataset includes:
 
 ### Gender Analysis
 - Most buyers are female, and they also contribute the most in total spending.
+- 
 - **Visualizations:**
   - Countplot of gender distribution.
   - Bar chart of total amount spent by gender.
